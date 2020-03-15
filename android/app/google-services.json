@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "320839173643",
+    "firebase_url": "https://dscproject-a5a7e.firebaseio.com",
+    "project_id": "dscproject-a5a7e",
+    "storage_bucket": "dscproject-a5a7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320839173643:android:87ce1ead67cc2a376ae90e",
+        "android_client_info": {
+          "package_name": "com.yyusasahin.flutterapp_yeni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320839173643-rdako5ubnt0jmott4815h5vib5p0pedm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4kZPeCMWSXT_fwjZCKhuIvjAVefovx2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320839173643-rdako5ubnt0jmott4815h5vib5p0pedm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
